@@ -1,0 +1,24 @@
+BMTK - Broad Matlab ToolKit
+
+Features:
+lightweight library
+support for Broad file formats
+core computational biology algorithms
+specialized plots
+
+Wont include:
+full fledged applications
+compiled routines
+external toolkits
+
+Licensing:
+BSD / GPL
+
+Release Names:
+1 americone dream
+2 boston creampie
+3 cherry garcia
+4 dublin mudslide
+5 everything but the
+6 fossil fuel
+
